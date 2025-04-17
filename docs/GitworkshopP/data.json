@@ -1,0 +1,2406 @@
+[
+  {
+    "code": "aakankshapunuguGITP0001",
+    "holder": "Aakanksha Punugu   of   CSE Department"
+  },
+  {
+    "code": "anwarjehanbegumGITP0002",
+    "holder": "Anwar Jehan Begum   of   CSE Department"
+  },
+  {
+    "code": "arshiyabegumGITP0003",
+    "holder": "Arshiya Begum   of   CSE Department"
+  },
+  {
+    "code": "chejarlaakshayaGITP0004",
+    "holder": "Chejarla Akshaya   of   CSE Department"
+  },
+  {
+    "code": "dasyamsahithisameeraGITP0005",
+    "holder": "Dasyam Sahithi Sameera   of   CSE Department"
+  },
+  {
+    "code": "gummadiakshithaGITP0006",
+    "holder": "Gummadi Akshitha   of   CSE Department"
+  },
+  {
+    "code": "ifrahanjumGITP0007",
+    "holder": "Ifrah Anjum   of   CSE Department"
+  },
+  {
+    "code": "jallicharissaGITP0008",
+    "holder": "Jalli Charissa   of   CSE Department"
+  },
+  {
+    "code": "jangasharanyaGITP0009",
+    "holder": "Janga Sharanya   of   CSE Department"
+  },
+  {
+    "code": "jeripothulasahasraGITP0010",
+    "holder": "Jeripothula Sahasra   of   CSE Department"
+  },
+  {
+    "code": "kasalasnehithaGITP0011",
+    "holder": "Kasala Snehitha   of   CSE Department"
+  },
+  {
+    "code": "koyyadasiriGITP0012",
+    "holder": "Koyyada Siri   of   CSE Department"
+  },
+  {
+    "code": "kusamharinyareddyGITP0013",
+    "holder": "Kusam Harinya Reddy   of   CSE Department"
+  },
+  {
+    "code": "mvyshnaviGITP0014",
+    "holder": "M Vyshnavi   of   CSE Department"
+  },
+  {
+    "code": "mudavathvaishnaviGITP0015",
+    "holder": "Mudavath Vaishnavi   of   CSE Department"
+  },
+  {
+    "code": "pamidighamtambhavyasreeGITP0016",
+    "holder": "Pamidighamtam Bhavyasree   of   CSE Department"
+  },
+  {
+    "code": "perumallasirireddyGITP0017",
+    "holder": "Perumalla Siri Reddy   of   CSE Department"
+  },
+  {
+    "code": "puvvadathanujaGITP0018",
+    "holder": "Puvvada Thanuja   of   CSE Department"
+  },
+  {
+    "code": "saimokshithagaliGITP0019",
+    "holder": "Sai Mokshitha Gali   of   CSE Department"
+  },
+  {
+    "code": "velpurijayabharathideviGITP0020",
+    "holder": "Velpuri Jaya Bharathi Devi   of   CSE Department"
+  },
+  {
+    "code": "vummalreddysnehithareddyGITP0021",
+    "holder": "Vummal Reddy Snehitha Reddy   of   CSE Department"
+  },
+  {
+    "code": "vundelakeerthireddyGITP0022",
+    "holder": "Vundela Keerthi Reddy   of   CSE Department"
+  },
+  {
+    "code": "vuppuabhignaGITP0023",
+    "holder": "Vuppu Abhigna   of   CSE Department"
+  },
+  {
+    "code": "agurijaicharanGITP0024",
+    "holder": "Aguri Jai Charan   of   CSE Department"
+  },
+  {
+    "code": "alamuruachyuthreddyGITP0025",
+    "holder": "Alamuru Achyuth Reddy   of   CSE Department"
+  },
+  {
+    "code": "avulajaisiddharthGITP0026",
+    "holder": "Avula Jai Siddharth   of   CSE Department"
+  },
+  {
+    "code": "billajvivekGITP0027",
+    "holder": "Billa J Vivek   of   CSE Department"
+  },
+  {
+    "code": "chandakapranushGITP0028",
+    "holder": "Chandaka Pranush   of   CSE Department"
+  },
+  {
+    "code": "chatrishivakumarGITP0029",
+    "holder": "Chatri Shiva Kumar   of   CSE Department"
+  },
+  {
+    "code": "darbhajagannadhasastryGITP0030",
+    "holder": "Darbha Jagannadha Sastry   of   CSE Department"
+  },
+  {
+    "code": "donalasrujanreddyGITP0031",
+    "holder": "Donala Srujan Reddy   of   CSE Department"
+  },
+  {
+    "code": "donthulavedanthGITP0032",
+    "holder": "Donthula Vedanth   of   CSE Department"
+  },
+  {
+    "code": "endapellysricharanreddyGITP0033",
+    "holder": "Endapelly Sri Charan Reddy   of   CSE Department"
+  },
+  {
+    "code": "gajengishivasaiGITP0034",
+    "holder": "Gajengi Shivasai   of   CSE Department"
+  },
+  {
+    "code": "gunugantirevanthraoGITP0035",
+    "holder": "Gunuganti Revanth Rao   of   CSE Department"
+  },
+  {
+    "code": "irfanquyoombhatGITP0036",
+    "holder": "Irfan Quyoom Bhat   of   CSE Department"
+  },
+  {
+    "code": "kammalapallyniranjanGITP0037",
+    "holder": "Kammalapally Niranjan   of   CSE Department"
+  },
+  {
+    "code": "kodumurisrinivasatejaGITP0038",
+    "holder": "Kodumuri Srinivasa Teja   of   CSE Department"
+  },
+  {
+    "code": "kyasaramvigneshGITP0039",
+    "holder": "Kyasaram Vignesh   of   CSE Department"
+  },
+  {
+    "code": "msantoshkumarreddyGITP0040",
+    "holder": "M Santosh Kumar Reddy   of   CSE Department"
+  },
+  {
+    "code": "mandashreeharshithGITP0041",
+    "holder": "Manda Shree Harshith   of   CSE Department"
+  },
+  {
+    "code": "mohammedzaheedshareefGITP0042",
+    "holder": "Mohammed Zaheed Shareef   of   CSE Department"
+  },
+  {
+    "code": "mudavaththarunGITP0043",
+    "holder": "Mudavath Tharun   of   CSE Department"
+  },
+  {
+    "code": "muhammadabdulhannanGITP0044",
+    "holder": "Muhammad Abdul Hannan   of   CSE Department"
+  },
+  {
+    "code": "mupparamrishikkumarGITP0045",
+    "holder": "Mupparam Rishik Kumar   of   CSE Department"
+  },
+  {
+    "code": "nalubolaharshithrajGITP0046",
+    "holder": "Nalubola Harshith Raj   of   CSE Department"
+  },
+  {
+    "code": "pvenkatamahanthreddyGITP0047",
+    "holder": "P Venkata Mahanth Reddy   of   CSE Department"
+  },
+  {
+    "code": "pesarukayalakarthikreddyGITP0048",
+    "holder": "Pesarukayala Karthik Reddy   of   CSE Department"
+  },
+  {
+    "code": "pinnitikoushikreddyGITP0049",
+    "holder": "Pinniti Koushik Reddy   of   CSE Department"
+  },
+  {
+    "code": "potukuchisranirudhGITP0050",
+    "holder": "Potukuchi S R Anirudh   of   CSE Department"
+  },
+  {
+    "code": "reddyanirudhGITP0051",
+    "holder": "Reddy Anirudh   of   CSE Department"
+  },
+  {
+    "code": "saiprabhanshukovuruGITP0052",
+    "holder": "Sai Prabhanshu Kovuru   of   CSE Department"
+  },
+  {
+    "code": "saripillyrakeshGITP0053",
+    "holder": "Saripilly Rakesh   of   CSE Department"
+  },
+  {
+    "code": "srivenkatabhishekkemburuGITP0054",
+    "holder": "Sri Venkat Abhishek Kemburu   of   CSE Department"
+  },
+  {
+    "code": "suhassiddireddyGITP0055",
+    "holder": "Suhas Siddireddy   of   CSE Department"
+  },
+  {
+    "code": "tekulanavdeepGITP0056",
+    "holder": "Tekula Navdeep   of   CSE Department"
+  },
+  {
+    "code": "kbhavyasriGITP0057",
+    "holder": "K Bhavya Sri   of   CSE Department"
+  },
+  {
+    "code": "adhvithikomireddyGITP0058",
+    "holder": "Adhvithi Komireddy   of   CSE Department"
+  },
+  {
+    "code": "akshayakotraGITP0059",
+    "holder": "Akshaya Kotra   of   CSE Department"
+  },
+  {
+    "code": "bellamkondamanognaGITP0060",
+    "holder": "Bellamkonda Manogna   of   CSE Department"
+  },
+  {
+    "code": "bhukyajyothiGITP0061",
+    "holder": "Bhukya Jyothi   of   CSE Department"
+  },
+  {
+    "code": "budhurnehareddyGITP0062",
+    "holder": "Budhur Neha Reddy   of   CSE Department"
+  },
+  {
+    "code": "bugideridhiGITP0063",
+    "holder": "Bugide Ridhi   of   CSE Department"
+  },
+  {
+    "code": "dasariaishwariaGITP0064",
+    "holder": "Dasari Aishwaria   of   CSE Department"
+  },
+  {
+    "code": "dyapaasmithaGITP0065",
+    "holder": "Dyapa Asmitha   of   CSE Department"
+  },
+  {
+    "code": "jakkampudinehaaGITP0066",
+    "holder": "Jakkampudi Nehaa   of   CSE Department"
+  },
+  {
+    "code": "kudumulaashrithaGITP0067",
+    "holder": "Kudumula Ashritha   of   CSE Department"
+  },
+  {
+    "code": "kurojushreejaniGITP0068",
+    "holder": "Kuroju Shreejani   of   CSE Department"
+  },
+  {
+    "code": "madhuriGITP0069",
+    "holder": "Madhuri   of   CSE Department"
+  },
+  {
+    "code": "nsamvarshiniGITP0070",
+    "holder": "N Samvarshini   of   CSE Department"
+  },
+  {
+    "code": "navyasreevadisettiGITP0071",
+    "holder": "Navya Sree Vadisetti   of   CSE Department"
+  },
+  {
+    "code": "nookapragnaGITP0072",
+    "holder": "Nooka Pragna   of   CSE Department"
+  },
+  {
+    "code": "pampatinagasharvaniGITP0073",
+    "holder": "Pampati Naga Sharvani   of   CSE Department"
+  },
+  {
+    "code": "saigayatrisunilGITP0074",
+    "holder": "Sai Gayatri Sunil   of   CSE Department"
+  },
+  {
+    "code": "shivarathrijnapikaGITP0075",
+    "holder": "Shivarathri Jnapika   of   CSE Department"
+  },
+  {
+    "code": "snehavuggiGITP0076",
+    "holder": "Sneha Vuggi   of   CSE Department"
+  },
+  {
+    "code": "srikrithigarapatiGITP0077",
+    "holder": "Srikrithi Garapati   of   CSE Department"
+  },
+  {
+    "code": "surampallyharshithaGITP0078",
+    "holder": "Surampally Harshitha   of   CSE Department"
+  },
+  {
+    "code": "teegalavinyasareddyGITP0079",
+    "holder": "Teegala Vinyasa Reddy   of   CSE Department"
+  },
+  {
+    "code": "tokalisamhithaGITP0080",
+    "holder": "Tokali Samhitha   of   CSE Department"
+  },
+  {
+    "code": "aashayrajgrandhiGITP0081",
+    "holder": "Aashay Raj Grandhi   of   CSE Department"
+  },
+  {
+    "code": "allacharantejaGITP0082",
+    "holder": "Alla Charan Teja   of   CSE Department"
+  },
+  {
+    "code": "allurisanithreddyGITP0083",
+    "holder": "Alluri Sanith Reddy   of   CSE Department"
+  },
+  {
+    "code": "ayitipamulaumashankarGITP0084",
+    "holder": "Ayitipamula Uma Shankar   of   CSE Department"
+  },
+  {
+    "code": "banothuchandunayakGITP0085",
+    "holder": "Banothu Chandu Nayak   of   CSE Department"
+  },
+  {
+    "code": "bhanothuyashwanthGITP0086",
+    "holder": "Bhanothu Yashwanth   of   CSE Department"
+  },
+  {
+    "code": "doraswamyparthivGITP0087",
+    "holder": "Doraswamy Parthiv   of   CSE Department"
+  },
+  {
+    "code": "dumpalabhavithavGITP0088",
+    "holder": "Dumpala Bhavithav   of   CSE Department"
+  },
+  {
+    "code": "gantidharmachaitanyaGITP0089",
+    "holder": "Ganti Dharma Chaitanya   of   CSE Department"
+  },
+  {
+    "code": "gorlemaheshabhinayGITP0090",
+    "holder": "Gorle Mahesh Abhinay   of   CSE Department"
+  },
+  {
+    "code": "gundlasrihithreddyGITP0091",
+    "holder": "Gundla Srihith Reddy   of   CSE Department"
+  },
+  {
+    "code": "hanumanbezwadaGITP0092",
+    "holder": "Hanuman Bezwada   of   CSE Department"
+  },
+  {
+    "code": "kattaanishreddyGITP0093",
+    "holder": "Katta Anish Reddy   of   CSE Department"
+  },
+  {
+    "code": "kotariashritsairamGITP0094",
+    "holder": "Kotari Ashrit Sai Ram   of   CSE Department"
+  },
+  {
+    "code": "kumaradityakattamuriGITP0095",
+    "holder": "Kumar Aditya Kattamuri   of   CSE Department"
+  },
+  {
+    "code": "kunchalatejasathwikGITP0096",
+    "holder": "Kunchala Teja Sathwik   of   CSE Department"
+  },
+  {
+    "code": "madepallikosthubavighnaGITP0097",
+    "holder": "Madepalli Kosthub Avighna   of   CSE Department"
+  },
+  {
+    "code": "mahammadferozGITP0098",
+    "holder": "Mahammad Feroz   of   CSE Department"
+  },
+  {
+    "code": "mdkhajarehanGITP0099",
+    "holder": "Md Khaja Rehan   of   CSE Department"
+  },
+  {
+    "code": "nagamakheerakeerthanGITP0100",
+    "holder": "Nagam Akheera Keerthan   of   CSE Department"
+  },
+  {
+    "code": "orugantisatyaabhiramGITP0101",
+    "holder": "Oruganti Satya Abhiram   of   CSE Department"
+  },
+  {
+    "code": "rayidineshGITP0102",
+    "holder": "Rayi Dinesh   of   CSE Department"
+  },
+  {
+    "code": "rendedlasudheepreddyGITP0103",
+    "holder": "Rendedla Sudheep Reddy   of   CSE Department"
+  },
+  {
+    "code": "sangireddyabhiramreddyGITP0104",
+    "holder": "Sangireddy Abhiram Reddy   of   CSE Department"
+  },
+  {
+    "code": "shaiktabrezGITP0105",
+    "holder": "Shaik Tabrez   of   CSE Department"
+  },
+  {
+    "code": "sirnamsairithwikGITP0106",
+    "holder": "Sirnam Sai Rithwik   of   CSE Department"
+  },
+  {
+    "code": "tadugamsainithinreddyGITP0107",
+    "holder": "Tadugam Sai Nithin Reddy   of   CSE Department"
+  },
+  {
+    "code": "tatababjiGITP0108",
+    "holder": "Tata Babji   of   CSE Department"
+  },
+  {
+    "code": "thatikondasaipranavGITP0109",
+    "holder": "Thatikonda Sai Pranav   of   CSE Department"
+  },
+  {
+    "code": "vattamwarmanishGITP0110",
+    "holder": "Vattamwar Manish   of   CSE Department"
+  },
+  {
+    "code": "yamanisriramGITP0111",
+    "holder": "Yamani Sri Ram   of   CSE Department"
+  },
+  {
+    "code": "yerredlaseetharamireddyGITP0112",
+    "holder": "Yerredla Seetha Rami Reddy   of   CSE Department"
+  },
+  {
+    "code": "abhinayanemaniGITP0113",
+    "holder": "Abhinaya Nemani   of   CSE Department"
+  },
+  {
+    "code": "bhukyavaishaliGITP0114",
+    "holder": "Bhukya Vaishali   of   CSE Department"
+  },
+  {
+    "code": "chennamanenisreeshaGITP0115",
+    "holder": "Chennamaneni Sreesha   of   CSE Department"
+  },
+  {
+    "code": "gorigavaishnaviGITP0116",
+    "holder": "Goriga Vaishnavi   of   CSE Department"
+  },
+  {
+    "code": "kanshithaGITP0117",
+    "holder": "K Anshitha   of   CSE Department"
+  },
+  {
+    "code": "kandikondashravaniGITP0118",
+    "holder": "Kandikonda Shravani   of   CSE Department"
+  },
+  {
+    "code": "kashvireddygunnaGITP0119",
+    "holder": "Kashvi Reddy Gunna   of   CSE Department"
+  },
+  {
+    "code": "keerthanaramalingamGITP0120",
+    "holder": "Keerthana Ramalingam   of   CSE Department"
+  },
+  {
+    "code": "malavathsirishaGITP0121",
+    "holder": "Malavath Sirisha   of   CSE Department"
+  },
+  {
+    "code": "marrumahathiraoGITP0122",
+    "holder": "Marru Mahathi Rao   of   CSE Department"
+  },
+  {
+    "code": "meghaannavarapuGITP0123",
+    "holder": "Megha Annavarapu   of   CSE Department"
+  },
+  {
+    "code": "munugotisnehaGITP0124",
+    "holder": "Munugoti Sneha   of   CSE Department"
+  },
+  {
+    "code": "nagaruruannikareddyGITP0125",
+    "holder": "Nagaruru Annika Reddy   of   CSE Department"
+  },
+  {
+    "code": "ramindlanithyasreeGITP0126",
+    "holder": "Ramindla Nithya Sree   of   CSE Department"
+  },
+  {
+    "code": "sayedsaniahassanGITP0127",
+    "holder": "Sayed Sania Hassan   of   CSE Department"
+  },
+  {
+    "code": "sriyaammanamanchiGITP0128",
+    "holder": "Sriya Ammanamanchi   of   CSE Department"
+  },
+  {
+    "code": "swaranreddyGITP0129",
+    "holder": "Swara N Reddy   of   CSE Department"
+  },
+  {
+    "code": "thaneerupreethiGITP0130",
+    "holder": "Thaneeru Preethi   of   CSE Department"
+  },
+  {
+    "code": "valivetinehasamanvithaGITP0131",
+    "holder": "Valiveti Neha Samanvitha   of   CSE Department"
+  },
+  {
+    "code": "alapatinageshGITP0132",
+    "holder": "Alapati Nagesh   of   CSE Department"
+  },
+  {
+    "code": "amaravadianeeshGITP0133",
+    "holder": "Amaravadi Aneesh   of   CSE Department"
+  },
+  {
+    "code": "asireddylokeshreddyGITP0134",
+    "holder": "Asireddy Lokesh Reddy   of   CSE Department"
+  },
+  {
+    "code": "banothbalakishoreGITP0135",
+    "holder": "Banoth Bala Kishore   of   CSE Department"
+  },
+  {
+    "code": "bharathyalamanchiliGITP0136",
+    "holder": "Bharath Yalamanchili   of   CSE Department"
+  },
+  {
+    "code": "bhukyaanilGITP0137",
+    "holder": "Bhukya Anil   of   CSE Department"
+  },
+  {
+    "code": "billasrishanthreddyGITP0138",
+    "holder": "Billa Srishanth Reddy   of   CSE Department"
+  },
+  {
+    "code": "bolishettyrahulGITP0139",
+    "holder": "Bolishetty Rahul   of   CSE Department"
+  },
+  {
+    "code": "chindamshivasaiGITP0140",
+    "holder": "Chindam Shiva Sai   of   CSE Department"
+  },
+  {
+    "code": "chintapanducharansaitejaGITP0141",
+    "holder": "Chintapandu Charan Sai Teja   of   CSE Department"
+  },
+  {
+    "code": "deekondabhaveshGITP0142",
+    "holder": "Deekonda Bhavesh   of   CSE Department"
+  },
+  {
+    "code": "dhanavathramuduGITP0143",
+    "holder": "Dhanavath Ramudu   of   CSE Department"
+  },
+  {
+    "code": "gaddamadithyareddyGITP0144",
+    "holder": "Gaddam Adithya Reddy   of   CSE Department"
+  },
+  {
+    "code": "goriparthykaushikGITP0145",
+    "holder": "Goriparthy Kaushik   of   CSE Department"
+  },
+  {
+    "code": "hareshtatikondaGITP0146",
+    "holder": "Haresh Tatikonda   of   CSE Department"
+  },
+  {
+    "code": "jampalaadharshGITP0147",
+    "holder": "Jampala Adharsh   of   CSE Department"
+  },
+  {
+    "code": "kammarisaiamarthyaGITP0148",
+    "holder": "Kammari Sai Amarthya   of   CSE Department"
+  },
+  {
+    "code": "karnetrineshGITP0149",
+    "holder": "Karne Trinesh   of   CSE Department"
+  },
+  {
+    "code": "katthigouthamreddyGITP0150",
+    "holder": "Katthi Goutham Reddy   of   CSE Department"
+  },
+  {
+    "code": "kokkallabadrinathGITP0151",
+    "holder": "Kokkalla Badrinath   of   CSE Department"
+  },
+  {
+    "code": "lavudyapradeepkumarGITP0152",
+    "holder": "Lavudya Pradeep Kumar   of   CSE Department"
+  },
+  {
+    "code": "macharlaharshithgoudGITP0153",
+    "holder": "Macharla Harshith Goud   of   CSE Department"
+  },
+  {
+    "code": "madharapusakethGITP0154",
+    "holder": "Madharapu Saketh   of   CSE Department"
+  },
+  {
+    "code": "manusadirepallyGITP0155",
+    "holder": "Manu Sadirepally   of   CSE Department"
+  },
+  {
+    "code": "marriabhinavGITP0156",
+    "holder": "Marri Abhinav   of   CSE Department"
+  },
+  {
+    "code": "matamshekarGITP0157",
+    "holder": "Matam Shekar   of   CSE Department"
+  },
+  {
+    "code": "mattapallyabhilashGITP0158",
+    "holder": "Mattapally Abhilash   of   CSE Department"
+  },
+  {
+    "code": "middemanishreddyGITP0159",
+    "holder": "Midde Manish Reddy   of   CSE Department"
+  },
+  {
+    "code": "munjampallymanideepGITP0160",
+    "holder": "Munjampally Manideep   of   CSE Department"
+  },
+  {
+    "code": "naaraharshithkumarGITP0161",
+    "holder": "Naara Harshith Kumar   of   CSE Department"
+  },
+  {
+    "code": "nikhilkotteGITP0162",
+    "holder": "Nikhil Kotte   of   CSE Department"
+  },
+  {
+    "code": "phardhikreddyGITP0163",
+    "holder": "P Hardhik Reddy   of   CSE Department"
+  },
+  {
+    "code": "palthyavathmaheshnayakGITP0164",
+    "holder": "Palthyavath Mahesh Nayak   of   CSE Department"
+  },
+  {
+    "code": "pamanagariajayGITP0165",
+    "holder": "Pamanagari Ajay   of   CSE Department"
+  },
+  {
+    "code": "praneelkaturuGITP0166",
+    "holder": "Praneel Katuru   of   CSE Department"
+  },
+  {
+    "code": "raghavsharmaGITP0167",
+    "holder": "Raghav Sharma   of   CSE Department"
+  },
+  {
+    "code": "rushilsarapuGITP0168",
+    "holder": "Rushil Sarapu   of   CSE Department"
+  },
+  {
+    "code": "svatsalnandavamsidharGITP0169",
+    "holder": "S Vatsal Nanda Vamsidhar   of   CSE Department"
+  },
+  {
+    "code": "somishettyrohithGITP0170",
+    "holder": "Somishetty Rohith   of   CSE Department"
+  },
+  {
+    "code": "syedhussainfarazGITP0171",
+    "holder": "Syed Hussain Faraz   of   CSE Department"
+  },
+  {
+    "code": "teralasrivatsavGITP0172",
+    "holder": "Terala Sri Vatsav   of   CSE Department"
+  },
+  {
+    "code": "vellankivenkatasairohanGITP0173",
+    "holder": "Vellanki Venkata Sai Rohan   of   CSE Department"
+  },
+  {
+    "code": "vemulavishnuvardhanGITP0174",
+    "holder": "Vemula Vishnu Vardhan   of   CSE Department"
+  },
+  {
+    "code": "vippatoorisaieshwarGITP0175",
+    "holder": "Vippatoori Sai Eshwar   of   CSE Department"
+  },
+  {
+    "code": "bandiindhuGITP0176",
+    "holder": "Bandi Indhu   of   CSE Department"
+  },
+  {
+    "code": "chinamuthevisanjanaGITP0177",
+    "holder": "Chinamuthevi Sanjana   of   CSE Department"
+  },
+  {
+    "code": "gummadivaishnaviGITP0178",
+    "holder": "Gummadi Vaishnavi   of   CSE Department"
+  },
+  {
+    "code": "lakkadihridyaGITP0179",
+    "holder": "Lakkadi Hridya   of   CSE Department"
+  },
+  {
+    "code": "mailaharshitaGITP0180",
+    "holder": "Maila Harshita   of   CSE Department"
+  },
+  {
+    "code": "malebharanireddyGITP0181",
+    "holder": "Male Bharani Reddy   of   CSE Department"
+  },
+  {
+    "code": "namrathanaiduGITP0182",
+    "holder": "Namratha Naidu   of   CSE Department"
+  },
+  {
+    "code": "pashikantisharvaniGITP0183",
+    "holder": "Pashikanti Sharvani   of   CSE Department"
+  },
+  {
+    "code": "priyankajuttuGITP0184",
+    "holder": "Priyanka Juttu   of   CSE Department"
+  },
+  {
+    "code": "salekyaGITP0185",
+    "holder": "S Alekya   of   CSE Department"
+  },
+  {
+    "code": "tanguturupranaviGITP0186",
+    "holder": "Tanguturu Pranavi   of   CSE Department"
+  },
+  {
+    "code": "uppuakhilaGITP0187",
+    "holder": "Uppu Akhila   of   CSE Department"
+  },
+  {
+    "code": "vanchaamulyareddyGITP0188",
+    "holder": "Vancha Amulya Reddy   of   CSE Department"
+  },
+  {
+    "code": "velugurisahasraGITP0189",
+    "holder": "Veluguri Sahasra   of   CSE Department"
+  },
+  {
+    "code": "viswabsukeerthimedhareddyGITP0190",
+    "holder": "Viswab Sukeerthi Medha Reddy   of   CSE Department"
+  },
+  {
+    "code": "vullendulapradeekshaGITP0191",
+    "holder": "Vullendula Pradeeksha   of   CSE Department"
+  },
+  {
+    "code": "achyutguptaGITP0192",
+    "holder": "Achyut Gupta   of   CSE Department"
+  },
+  {
+    "code": "addulasaipunithreddyGITP0193",
+    "holder": "Addula Sai Punith Reddy   of   CSE Department"
+  },
+  {
+    "code": "alimeladheeranreddyGITP0194",
+    "holder": "Alimela Dheeran Reddy   of   CSE Department"
+  },
+  {
+    "code": "anachipravalGITP0195",
+    "holder": "Anachi Praval   of   CSE Department"
+  },
+  {
+    "code": "andejeshwanthGITP0196",
+    "holder": "Ande Jeshwanth   of   CSE Department"
+  },
+  {
+    "code": "bshivakumarGITP0197",
+    "holder": "B Shiva Kumar   of   CSE Department"
+  },
+  {
+    "code": "bondugulavarshithGITP0198",
+    "holder": "Bondugula Varshith   of   CSE Department"
+  },
+  {
+    "code": "chepurirajukumarGITP0199",
+    "holder": "Chepuri Raju Kumar   of   CSE Department"
+  },
+  {
+    "code": "dasaririshwanthGITP0200",
+    "holder": "Dasari Rishwanth   of   CSE Department"
+  },
+  {
+    "code": "dintakurthisohanGITP0201",
+    "holder": "Dintakurthi Sohan   of   CSE Department"
+  },
+  {
+    "code": "gajavellideekshithGITP0202",
+    "holder": "Gajavelli Deekshith   of   CSE Department"
+  },
+  {
+    "code": "hanithganduriGITP0203",
+    "holder": "Hanith Ganduri   of   CSE Department"
+  },
+  {
+    "code": "hazarinikhilGITP0204",
+    "holder": "Hazari Nikhil   of   CSE Department"
+  },
+  {
+    "code": "innamurisriranaaprathapGITP0205",
+    "holder": "Innamuri Sri Ranaa Prathap   of   CSE Department"
+  },
+  {
+    "code": "kakkeraramithraoGITP0206",
+    "holder": "Kakkera Ramith Rao   of   CSE Department"
+  },
+  {
+    "code": "kamireddyyogeswarreddyGITP0207",
+    "holder": "Kamireddy Yogeswar Reddy   of   CSE Department"
+  },
+  {
+    "code": "kanukuntlaanuragGITP0208",
+    "holder": "Kanukuntla Anurag   of   CSE Department"
+  },
+  {
+    "code": "kasarapuvaishnavGITP0209",
+    "holder": "Kasarapu Vaishnav   of   CSE Department"
+  },
+  {
+    "code": "kethavathvinodGITP0210",
+    "holder": "Kethavath Vinod   of   CSE Department"
+  },
+  {
+    "code": "kinneracharanGITP0211",
+    "holder": "Kinnera Charan   of   CSE Department"
+  },
+  {
+    "code": "megavatharavindGITP0212",
+    "holder": "Megavath Aravind   of   CSE Department"
+  },
+  {
+    "code": "mohammadabdulbinthoufiqGITP0213",
+    "holder": "Mohammad Abdul Bin Thoufiq   of   CSE Department"
+  },
+  {
+    "code": "mohammedmuzammilGITP0214",
+    "holder": "Mohammed Muzammil   of   CSE Department"
+  },
+  {
+    "code": "naganaboinasaikrishnaGITP0215",
+    "holder": "Naganaboina Sai Krishna   of   CSE Department"
+  },
+  {
+    "code": "nagarjunareddyboppidiGITP0216",
+    "holder": "Nagarjuna Reddy Boppidi   of   CSE Department"
+  },
+  {
+    "code": "nannepagatanujGITP0217",
+    "holder": "Nannepaga Tanuj   of   CSE Department"
+  },
+  {
+    "code": "nimmalakarthikGITP0218",
+    "holder": "Nimmala Karthik   of   CSE Department"
+  },
+  {
+    "code": "padamatintisandeepGITP0219",
+    "holder": "Padamatinti Sandeep   of   CSE Department"
+  },
+  {
+    "code": "padigapatinavadeepreddyGITP0220",
+    "holder": "Padigapati Navadeep Reddy   of   CSE Department"
+  },
+  {
+    "code": "pathakakshithkumarGITP0221",
+    "holder": "Pathak Akshith Kumar   of   CSE Department"
+  },
+  {
+    "code": "rasamallavirajGITP0222",
+    "holder": "Rasamalla Viraj   of   CSE Department"
+  },
+  {
+    "code": "reddymalladilipGITP0223",
+    "holder": "Reddymalla Dilip   of   CSE Department"
+  },
+  {
+    "code": "rishikeshreddyarjulaGITP0224",
+    "holder": "Rishikesh Reddy Arjula   of   CSE Department"
+  },
+  {
+    "code": "saripillylokeshGITP0225",
+    "holder": "Saripilly Lokesh   of   CSE Department"
+  },
+  {
+    "code": "satyavarapusubhashrajGITP0226",
+    "holder": "Satyavarapu Subhash Raj   of   CSE Department"
+  },
+  {
+    "code": "suddulamanoharGITP0227",
+    "holder": "Suddula Manohar   of   CSE Department"
+  },
+  {
+    "code": "tpraneethGITP0228",
+    "holder": "T Praneeth   of   CSE Department"
+  },
+  {
+    "code": "tallojunishchalGITP0229",
+    "holder": "Talloju Nishchal   of   CSE Department"
+  },
+  {
+    "code": "tamminenianveshGITP0230",
+    "holder": "Tammineni Anvesh   of   CSE Department"
+  },
+  {
+    "code": "thatiudbhavGITP0231",
+    "holder": "Thati Udbhav   of   CSE Department"
+  },
+  {
+    "code": "vruthvikbhaskarGITP0232",
+    "holder": "V Ruthvik Bhaskar   of   CSE Department"
+  },
+  {
+    "code": "vanaparthysaicharanGITP0233",
+    "holder": "Vanaparthy Sai Charan   of   CSE Department"
+  },
+  {
+    "code": "vanipentajayavardhanreddyGITP0234",
+    "holder": "Vanipenta Jayavardhan Reddy   of   CSE Department"
+  },
+  {
+    "code": "arvapallysnehaGITP0235",
+    "holder": "Arvapally Sneha   of   CSE Department"
+  },
+  {
+    "code": "pabbasaidivyaGITP0236",
+    "holder": "Pabba Sai Divya   of   CSE Department"
+  },
+  {
+    "code": "gollamandalasushanthGITP0237",
+    "holder": "Gollamandala Sushanth   of   CSE Department"
+  },
+  {
+    "code": "mulpursumitdanielGITP0238",
+    "holder": "Mulpur Sumit Daniel   of   CSE Department"
+  },
+  {
+    "code": "ramidiharshavardhanreddyGITP0239",
+    "holder": "Ramidi Harsha Vardhan Reddy   of   CSE Department"
+  },
+  {
+    "code": "surajmuktawarGITP0240",
+    "holder": "Suraj Muktawar   of   CSE Department"
+  },
+  {
+    "code": "vemulakondachandrashekarGITP0241",
+    "holder": "Vemulakonda Chandra Shekar   of   CSE Department"
+  },
+  {
+    "code": "ydineshreddyGITP0242",
+    "holder": "Y Dinesh Reddy   of   CSE Department"
+  },
+  {
+    "code": "aditisanghviGITP0243",
+    "holder": "Aditi Sanghvi   of   CET Department"
+  },
+  {
+    "code": "bandarisharvaniGITP0244",
+    "holder": "Bandari Sharvani   of   CET Department"
+  },
+  {
+    "code": "challasrimedhasadhanaGITP0245",
+    "holder": "Challa Sri Medha Sadhana   of   CET Department"
+  },
+  {
+    "code": "conjeevaramnidhiGITP0246",
+    "holder": "Conjeevaram Nidhi   of   CET Department"
+  },
+  {
+    "code": "dendibhavyareddyGITP0247",
+    "holder": "Dendi Bhavya Reddy   of   CET Department"
+  },
+  {
+    "code": "dyapaaashrithareddyGITP0248",
+    "holder": "Dyapa Aashritha Reddy   of   CET Department"
+  },
+  {
+    "code": "gorrelachaitanyapriyaGITP0249",
+    "holder": "Gorrela Chaitanya Priya   of   CET Department"
+  },
+  {
+    "code": "guduriadhvikaGITP0250",
+    "holder": "Guduri Adhvika   of   CET Department"
+  },
+  {
+    "code": "kadarlaramyasriGITP0251",
+    "holder": "Kadarla Ramyasri   of   CET Department"
+  },
+  {
+    "code": "khandekerachanaGITP0252",
+    "holder": "Khandeke Rachana   of   CET Department"
+  },
+  {
+    "code": "khyathimallulaGITP0253",
+    "holder": "Khyathi Mallula   of   CET Department"
+  },
+  {
+    "code": "mangalideekshithaGITP0254",
+    "holder": "Mangali Deekshitha   of   CET Department"
+  },
+  {
+    "code": "mvenkatasrilakshmikeerthanaGITP0255",
+    "holder": "M Venkata Sri Lakshmi Keerthana   of   CET Department"
+  },
+  {
+    "code": "nlaxmitejasreeGITP0256",
+    "holder": "N Laxmi Tejasree   of   CET Department"
+  },
+  {
+    "code": "pasulaanvitareddyGITP0257",
+    "holder": "Pasula Anvita Reddy   of   CET Department"
+  },
+  {
+    "code": "rangapurisanjanaGITP0258",
+    "holder": "Rangapuri Sanjana   of   CET Department"
+  },
+  {
+    "code": "sandireddygeethikaGITP0259",
+    "holder": "Sandireddy Geethika   of   CET Department"
+  },
+  {
+    "code": "talamalaabhinayaGITP0260",
+    "holder": "Talamala Abhinaya   of   CET Department"
+  },
+  {
+    "code": "thativyshaliGITP0261",
+    "holder": "Thati Vyshali   of   CET Department"
+  },
+  {
+    "code": "adepubhavanisrimanGITP0262",
+    "holder": "Adepu Bhavani Sriman   of   CET Department"
+  },
+  {
+    "code": "akhilkumarsitaramGITP0263",
+    "holder": "Akhil Kumar Sitaram   of   CET Department"
+  },
+  {
+    "code": "anthatiroshanGITP0264",
+    "holder": "Anthati Roshan   of   CET Department"
+  },
+  {
+    "code": "ayyagariananthGITP0265",
+    "holder": "Ayyagari Ananth   of   CET Department"
+  },
+  {
+    "code": "balagonidurgavaraprasadGITP0266",
+    "holder": "Balagoni Durga Vara Prasad   of   CET Department"
+  },
+  {
+    "code": "bhagavatulaseshasatwikGITP0267",
+    "holder": "Bhagavatula Sesha Satwik   of   CET Department"
+  },
+  {
+    "code": "bheemireddyleelaaravindreddyGITP0268",
+    "holder": "Bheemireddy Leela Aravind Reddy   of   CET Department"
+  },
+  {
+    "code": "chatlapranaynivasGITP0269",
+    "holder": "Chatla Pranay Nivas   of   CET Department"
+  },
+  {
+    "code": "chopparasrunikGITP0270",
+    "holder": "Choppara Srunik   of   CET Department"
+  },
+  {
+    "code": "chopparitajrishikGITP0271",
+    "holder": "Choppari Taj Rishik   of   CET Department"
+  },
+  {
+    "code": "dommetiruthwikGITP0272",
+    "holder": "Dommeti Ruthwik   of   CET Department"
+  },
+  {
+    "code": "emmadinithinreddyGITP0273",
+    "holder": "Emmadi Nithin Reddy   of   CET Department"
+  },
+  {
+    "code": "guntupallikiranGITP0274",
+    "holder": "Guntupalli Kiran   of   CET Department"
+  },
+  {
+    "code": "jvikramsiddarthreddyGITP0275",
+    "holder": "J Vikram Siddarth Reddy   of   CET Department"
+  },
+  {
+    "code": "jeevanreddymadadiGITP0276",
+    "holder": "Jeevan Reddy Madadi   of   CET Department"
+  },
+  {
+    "code": "ksriharshaGITP0277",
+    "holder": "K Sri Harsha   of   CET Department"
+  },
+  {
+    "code": "karramanideepGITP0278",
+    "holder": "Karra Manideep   of   CET Department"
+  },
+  {
+    "code": "kasturirishikeshreddyGITP0279",
+    "holder": "Kasturi Rishikesh Reddy   of   CET Department"
+  },
+  {
+    "code": "maddivishalGITP0280",
+    "holder": "Maddi Vishal   of   CET Department"
+  },
+  {
+    "code": "madupathiganeshGITP0281",
+    "holder": "Madupathi Ganesh   of   CET Department"
+  },
+  {
+    "code": "mailaramadarshGITP0282",
+    "holder": "Mailaram Adarsh   of   CET Department"
+  },
+  {
+    "code": "mandadapumokshagnaGITP0283",
+    "holder": "Mandadapu Mokshagna   of   CET Department"
+  },
+  {
+    "code": "mayanknandellaGITP0284",
+    "holder": "Mayank Nandella   of   CET Department"
+  },
+  {
+    "code": "paderachitkishoreGITP0285",
+    "holder": "Pade Rachit Kishore   of   CET Department"
+  },
+  {
+    "code": "shaiksameerGITP0286",
+    "holder": "Shaik Sameer   of   CET Department"
+  },
+  {
+    "code": "tejavathbhaskarGITP0287",
+    "holder": "Tejavath Bhaskar   of   CET Department"
+  },
+  {
+    "code": "thallarajeshGITP0288",
+    "holder": "Thalla Rajesh   of   CET Department"
+  },
+  {
+    "code": "vallathairakshithnairGITP0289",
+    "holder": "Vallathai Rakshith Nair   of   CET Department"
+  },
+  {
+    "code": "vnagaaswinreddyGITP0290",
+    "holder": "V Naga Aswin Reddy   of   CET Department"
+  },
+  {
+    "code": "vedutkoorGITP0291",
+    "holder": "Ved Utkoor   of   CET Department"
+  },
+  {
+    "code": "vemulamanideepGITP0292",
+    "holder": "Vemula Manideep   of   CET Department"
+  },
+  {
+    "code": "vibhavshankarkammulaGITP0293",
+    "holder": "Vibhav Shankar Kammula   of   CET Department"
+  },
+  {
+    "code": "anugunehaGITP0294",
+    "holder": "Anugu Neha   of   AIML Department"
+  },
+  {
+    "code": "brindhapodavuGITP0295",
+    "holder": "Brindha Podavu   of   AIML Department"
+  },
+  {
+    "code": "akulavyshnaviGITP0296",
+    "holder": "Akula Vyshnavi   of   AIML Department"
+  },
+  {
+    "code": "alwalmedhanaGITP0297",
+    "holder": "Alwal Medhana   of   AIML Department"
+  },
+  {
+    "code": "banothanjaliGITP0298",
+    "holder": "Banoth Anjali   of   AIML Department"
+  },
+  {
+    "code": "challasrimugdhasahithiGITP0299",
+    "holder": "Challa Sri Mugdha Sahithi   of   AIML Department"
+  },
+  {
+    "code": "dyavanapellyshreyaGITP0300",
+    "holder": "Dyavanapelly Shreya   of   AIML Department"
+  },
+  {
+    "code": "gsreejareddyGITP0301",
+    "holder": "G Sreeja Reddy   of   AIML Department"
+  },
+  {
+    "code": "gandamallasharonchelseaGITP0302",
+    "holder": "Gandamalla Sharon Chelsea   of   AIML Department"
+  },
+  {
+    "code": "kalalsrinijaGITP0303",
+    "holder": "Kalal Srinija   of   AIML Department"
+  },
+  {
+    "code": "kancharlashrestareddyGITP0304",
+    "holder": "Kancharla Shresta Reddy   of   AIML Department"
+  },
+  {
+    "code": "mandadapusrivyshnaviGITP0305",
+    "holder": "Mandadapu Sri Vyshnavi   of   AIML Department"
+  },
+  {
+    "code": "mandalaharipriyaGITP0306",
+    "holder": "Mandala Haripriya   of   AIML Department"
+  },
+  {
+    "code": "npadminipriyaGITP0307",
+    "holder": "N Padmini Priya   of   AIML Department"
+  },
+  {
+    "code": "rarthiGITP0308",
+    "holder": "R Arthi   of   AIML Department"
+  },
+  {
+    "code": "ravulasirivalliGITP0309",
+    "holder": "Ravula Sirivalli   of   AIML Department"
+  },
+  {
+    "code": "renukuntaanushaGITP0310",
+    "holder": "Renukunta Anusha   of   AIML Department"
+  },
+  {
+    "code": "bandasrijayramreddyGITP0311",
+    "holder": "Banda Srijay Ram Reddy   of   AIML Department"
+  },
+  {
+    "code": "bandarichandravardhanGITP0312",
+    "holder": "Bandari Chandra Vardhan   of   AIML Department"
+  },
+  {
+    "code": "deemuharishkumarGITP0313",
+    "holder": "Deemu Harish Kumar   of   AIML Department"
+  },
+  {
+    "code": "dharavathchetanGITP0314",
+    "holder": "Dharavath Chetan   of   AIML Department"
+  },
+  {
+    "code": "gajjappagarisakemouryatejGITP0315",
+    "holder": "Gajjappagari Sake Mouryatej   of   AIML Department"
+  },
+  {
+    "code": "gavvalasujeethchandraGITP0316",
+    "holder": "Gavvala Sujeeth Chandra   of   AIML Department"
+  },
+  {
+    "code": "guttianishGITP0317",
+    "holder": "Gutti Anish   of   AIML Department"
+  },
+  {
+    "code": "jakkamrajasanjayGITP0318",
+    "holder": "Jakkam Raja Sanjay   of   AIML Department"
+  },
+  {
+    "code": "kvenkatasaieeshreddyGITP0319",
+    "holder": "K Venkata Saieesh Reddy   of   AIML Department"
+  },
+  {
+    "code": "kethavathhanmanthuGITP0320",
+    "holder": "Kethavath Hanmanthu   of   AIML Department"
+  },
+  {
+    "code": "kondaakshayGITP0321",
+    "holder": "Konda Akshay   of   AIML Department"
+  },
+  {
+    "code": "kondojurathnatejaGITP0322",
+    "holder": "Kondoju Rathna Teja   of   AIML Department"
+  },
+  {
+    "code": "kothavamshidharreddyGITP0323",
+    "holder": "Kotha Vamshidhar Reddy   of   AIML Department"
+  },
+  {
+    "code": "leelasaicharanputtiGITP0324",
+    "holder": "Leelasai Charan Putti   of   AIML Department"
+  },
+  {
+    "code": "madireddybhargavsaiGITP0325",
+    "holder": "Madireddy Bhargav Sai   of   AIML Department"
+  },
+  {
+    "code": "maligeafridiGITP0326",
+    "holder": "Malige Afridi   of   AIML Department"
+  },
+  {
+    "code": "manchukondasidhardhaGITP0327",
+    "holder": "Manchukonda Sidhardha   of   AIML Department"
+  },
+  {
+    "code": "maskapuridhanushGITP0328",
+    "holder": "Maskapuri Dhanush   of   AIML Department"
+  },
+  {
+    "code": "mdnumangouriGITP0329",
+    "holder": "Md Numan Gouri   of   AIML Department"
+  },
+  {
+    "code": "modalamokshithgupthaGITP0330",
+    "holder": "Modala Mokshith Guptha   of   AIML Department"
+  },
+  {
+    "code": "nakkashashipreethamGITP0331",
+    "holder": "Nakka Shashi Preetham   of   AIML Department"
+  },
+  {
+    "code": "parikipandlaaksharujjainGITP0332",
+    "holder": "Parikipandla Akshar Ujjain   of   AIML Department"
+  },
+  {
+    "code": "patlollaprajeethreddyGITP0333",
+    "holder": "Patlolla Prajeeth Reddy   of   AIML Department"
+  },
+  {
+    "code": "rajulavenkatasahithreddyGITP0334",
+    "holder": "Rajula Venkata Sahith Reddy   of   AIML Department"
+  },
+  {
+    "code": "saisiddharthaGITP0335",
+    "holder": "Sai Siddhartha   of   AIML Department"
+  },
+  {
+    "code": "sriramadityasaidhulipalaGITP0336",
+    "holder": "Sriram Aditya Sai Dhulipala   of   AIML Department"
+  },
+  {
+    "code": "suneetreddypaillaGITP0337",
+    "holder": "Suneet Reddy Pailla   of   AIML Department"
+  },
+  {
+    "code": "tanishmadishettyGITP0338",
+    "holder": "Tanish Madishetty   of   AIML Department"
+  },
+  {
+    "code": "yanamalamandamanvithGITP0339",
+    "holder": "Yanamalamanda Manvith   of   AIML Department"
+  },
+  {
+    "code": "ampalyamkhyathiGITP0340",
+    "holder": "Ampalyam Khyathi   of   IT Department"
+  },
+  {
+    "code": "atigaddaabhinayaGITP0341",
+    "holder": "Atigadda Abhinaya   of   IT Department"
+  },
+  {
+    "code": "battulaanjaliGITP0342",
+    "holder": "Battula Anjali   of   IT Department"
+  },
+  {
+    "code": "bodikelaabhignyaGITP0343",
+    "holder": "Bodikela Abhignya   of   IT Department"
+  },
+  {
+    "code": "chithuluricharishmaGITP0344",
+    "holder": "Chithuluri Charishma   of   IT Department"
+  },
+  {
+    "code": "dharmagaddaharinivedithaGITP0345",
+    "holder": "Dharmagadda Hari Niveditha   of   IT Department"
+  },
+  {
+    "code": "dharshanamchandanaGITP0346",
+    "holder": "Dharshanam Chandana   of   IT Department"
+  },
+  {
+    "code": "gangulasrikarthikaGITP0347",
+    "holder": "Gangula Srikarthika   of   IT Department"
+  },
+  {
+    "code": "jangasnehithaGITP0348",
+    "holder": "Janga Snehitha   of   IT Department"
+  },
+  {
+    "code": "kaparthiasrithaGITP0349",
+    "holder": "Kaparthi Asritha   of   IT Department"
+  },
+  {
+    "code": "kommidivaishnaviGITP0350",
+    "holder": "Kommidi Vaishnavi   of   IT Department"
+  },
+  {
+    "code": "kulsumabidmohiuddinGITP0351",
+    "holder": "Kulsum Abid Mohiuddin   of   IT Department"
+  },
+  {
+    "code": "megavathnandiniGITP0352",
+    "holder": "Megavath Nandini   of   IT Department"
+  },
+  {
+    "code": "mittakolavamshikaGITP0353",
+    "holder": "Mittakola Vamshika   of   IT Department"
+  },
+  {
+    "code": "molugurinayanalasyaGITP0354",
+    "holder": "Moluguri Nayanalasya   of   IT Department"
+  },
+  {
+    "code": "nadigottusuthanGITP0355",
+    "holder": "Nadigottu Suthan   of   IT Department"
+  },
+  {
+    "code": "nakkalakhyattishreGITP0356",
+    "holder": "Nakkala Khyatti Shre   of   IT Department"
+  },
+  {
+    "code": "pagidimarrisreenidhiGITP0357",
+    "holder": "Pagidimarri Sreenidhi   of   IT Department"
+  },
+  {
+    "code": "pinjarireshmasulthanaGITP0358",
+    "holder": "Pinjari Reshma Sulthana   of   IT Department"
+  },
+  {
+    "code": "praharshisepurGITP0359",
+    "holder": "Praharshi Sepur   of   IT Department"
+  },
+  {
+    "code": "ragasrichamakuriGITP0360",
+    "holder": "Ragasri Chamakuri   of   IT Department"
+  },
+  {
+    "code": "sahasthrajeripotulaGITP0361",
+    "holder": "Sahasthra Jeripotula   of   IT Department"
+  },
+  {
+    "code": "solidhanasriGITP0362",
+    "holder": "Soli Dhana Sri   of   IT Department"
+  },
+  {
+    "code": "vishwajanakkaGITP0363",
+    "holder": "Vishwaja Nakka   of   IT Department"
+  },
+  {
+    "code": "brugumallaganeshgouthamGITP0364",
+    "holder": "Brugumalla Ganesh Goutham   of   IT Department"
+  },
+  {
+    "code": "deepakprajapatiGITP0365",
+    "holder": "Deepak Prajapati   of   IT Department"
+  },
+  {
+    "code": "gajamnihalGITP0366",
+    "holder": "Gajam Nihal   of   IT Department"
+  },
+  {
+    "code": "gunjipradeepGITP0367",
+    "holder": "Gunji Pradeep   of   IT Department"
+  },
+  {
+    "code": "janammagarisaikiranreddyGITP0368",
+    "holder": "Janammagari Sai Kiran Reddy   of   IT Department"
+  },
+  {
+    "code": "jangilisuryatejaGITP0369",
+    "holder": "Jangili Surya Teja   of   IT Department"
+  },
+  {
+    "code": "jatothakhilGITP0370",
+    "holder": "Jatoth Akhil   of   IT Department"
+  },
+  {
+    "code": "joelthomasGITP0371",
+    "holder": "Joel Thomas   of   IT Department"
+  },
+  {
+    "code": "kakiabhishekGITP0372",
+    "holder": "Kaki Abhishek   of   IT Department"
+  },
+  {
+    "code": "katakamsanthoshreddyGITP0373",
+    "holder": "Katakam Santhosh Reddy   of   IT Department"
+  },
+  {
+    "code": "krishnatanaychowdarymallineniGITP0374",
+    "holder": "Krishna Tanay Chowdary Mallineni   of   IT Department"
+  },
+  {
+    "code": "kumawatrohanGITP0375",
+    "holder": "Kumawat Rohan   of   IT Department"
+  },
+  {
+    "code": "kusumbasaiabhinavGITP0376",
+    "holder": "Kusumba Sai Abhinav   of   IT Department"
+  },
+  {
+    "code": "lokasanidileepreddyGITP0377",
+    "holder": "Lokasani Dileep Reddy   of   IT Department"
+  },
+  {
+    "code": "majetishreeramphaneendraGITP0378",
+    "holder": "Majeti Shreeram Phaneendra   of   IT Department"
+  },
+  {
+    "code": "meesalaprabathsatyasaivenkatGITP0379",
+    "holder": "Meesala Prabath Satya Sai Venkat   of   IT Department"
+  },
+  {
+    "code": "miyapuramdeekshithGITP0380",
+    "holder": "Miyapuram Deekshith   of   IT Department"
+  },
+  {
+    "code": "mohammadirfanGITP0381",
+    "holder": "Mohammad Irfan   of   IT Department"
+  },
+  {
+    "code": "mohammedibrahimrasheedGITP0382",
+    "holder": "Mohammed Ibrahim Rasheed   of   IT Department"
+  },
+  {
+    "code": "patnamsomashekarGITP0383",
+    "holder": "Patnam Soma Shekar   of   IT Department"
+  },
+  {
+    "code": "ramavathkarthikGITP0384",
+    "holder": "Ramavath Karthik   of   IT Department"
+  },
+  {
+    "code": "sheelarashmithGITP0385",
+    "holder": "Sheela Rashmith   of   IT Department"
+  },
+  {
+    "code": "sujalprakashvubaGITP0386",
+    "holder": "Sujal Prakash Vuba   of   IT Department"
+  },
+  {
+    "code": "suryarupeshkumarGITP0387",
+    "holder": "Surya Rupesh Kumar   of   IT Department"
+  },
+  {
+    "code": "vsaideepakreddyGITP0388",
+    "holder": "V Saideepak Reddy   of   IT Department"
+  },
+  {
+    "code": "veeranalashanmukhavarunGITP0389",
+    "holder": "Veeranala Shanmukha Varun   of   IT Department"
+  },
+  {
+    "code": "vikaasnalajalaGITP0390",
+    "holder": "Vikaas Nalajala   of   IT Department"
+  },
+  {
+    "code": "vulupalarohithkumarreddyGITP0391",
+    "holder": "Vulupala Rohith Kumar Reddy   of   IT Department"
+  },
+  {
+    "code": "annanyareddykuchikullaGITP0392",
+    "holder": "Annanya Reddy Kuchikulla   of   IT Department"
+  },
+  {
+    "code": "azmeerasreelekhaGITP0393",
+    "holder": "Azmeera Sreelekha   of   IT Department"
+  },
+  {
+    "code": "bapanapallyaksharaGITP0394",
+    "holder": "Bapanapally Akshara   of   IT Department"
+  },
+  {
+    "code": "bhukyabhavithaGITP0395",
+    "holder": "Bhukya Bhavitha   of   IT Department"
+  },
+  {
+    "code": "challapramodaGITP0396",
+    "holder": "Challa Pramoda   of   IT Department"
+  },
+  {
+    "code": "dharavathnageswariGITP0397",
+    "holder": "Dharavath Nageswari   of   IT Department"
+  },
+  {
+    "code": "dudapakaravaliGITP0398",
+    "holder": "Dudapaka Ravali   of   IT Department"
+  },
+  {
+    "code": "jangalamohiniGITP0399",
+    "holder": "Jangala Mohini   of   IT Department"
+  },
+  {
+    "code": "jannushinyGITP0400",
+    "holder": "Jannu Shiny   of   IT Department"
+  },
+  {
+    "code": "karnaladeekshareddyGITP0401",
+    "holder": "Karnala Deeksha Reddy   of   IT Department"
+  },
+  {
+    "code": "kattaakshithaGITP0402",
+    "holder": "Katta Akshitha   of   IT Department"
+  },
+  {
+    "code": "kotireddytejithaGITP0403",
+    "holder": "Kotireddy Tejitha   of   IT Department"
+  },
+  {
+    "code": "kuppalalakshmisirishaGITP0404",
+    "holder": "Kuppala Lakshmi Sirisha   of   IT Department"
+  },
+  {
+    "code": "kusumasnithikaGITP0405",
+    "holder": "Kusuma Snithika   of   IT Department"
+  },
+  {
+    "code": "mannebhanurithvikaGITP0406",
+    "holder": "Manne Bhanu Rithvika   of   IT Department"
+  },
+  {
+    "code": "masnahansikaGITP0407",
+    "holder": "Masna Hansika   of   IT Department"
+  },
+  {
+    "code": "psadhikaGITP0408",
+    "holder": "P. Sadhika   of   IT Department"
+  },
+  {
+    "code": "rbrindhasriGITP0409",
+    "holder": "R. Brindha Sri   of   IT Department"
+  },
+  {
+    "code": "rajulagangasamhithaGITP0410",
+    "holder": "Rajula Ganga Samhitha   of   IT Department"
+  },
+  {
+    "code": "rompallybhavanireddyGITP0411",
+    "holder": "Rompally Bhavani Reddy   of   IT Department"
+  },
+  {
+    "code": "tadisirireddyGITP0412",
+    "holder": "Tadi Siri Reddy   of   IT Department"
+  },
+  {
+    "code": "tunikisrujanaGITP0413",
+    "holder": "Tuniki Srujana   of   IT Department"
+  },
+  {
+    "code": "vainavivenkatGITP0414",
+    "holder": "Vainavi Venkat   of   IT Department"
+  },
+  {
+    "code": "vanneladasvaishnaviGITP0415",
+    "holder": "Vanneladas Vaishnavi   of   IT Department"
+  },
+  {
+    "code": "vimmadisettynagasaithanmaiGITP0416",
+    "holder": "Vimmadisetty Naga Sai Thanmai   of   IT Department"
+  },
+  {
+    "code": "arithwikbhushanGITP0417",
+    "holder": "A Rithwik Bhushan   of   IT Department"
+  },
+  {
+    "code": "abhinavregillaGITP0418",
+    "holder": "Abhinav Regilla   of   IT Department"
+  },
+  {
+    "code": "addagudisathvikGITP0419",
+    "holder": "Addagudi Sathvik   of   IT Department"
+  },
+  {
+    "code": "allakoushikreddyGITP0420",
+    "holder": "Alla Koushik Reddy   of   IT Department"
+  },
+  {
+    "code": "baddamvathanreddyGITP0421",
+    "holder": "Baddam Vathan Reddy   of   IT Department"
+  },
+  {
+    "code": "bhimireddyjaswanthreddyGITP0422",
+    "holder": "Bhimireddy Jaswanth Reddy   of   IT Department"
+  },
+  {
+    "code": "cchetannreddyGITP0423",
+    "holder": "C Chetann Reddy   of   IT Department"
+  },
+  {
+    "code": "chittampallysairuthikGITP0424",
+    "holder": "Chittampally Sai Ruthik   of   IT Department"
+  },
+  {
+    "code": "gangalareshikeshyadavGITP0425",
+    "holder": "Gangala Reshikesh Yadav   of   IT Department"
+  },
+  {
+    "code": "ganisettijaswanthsaikumarGITP0426",
+    "holder": "Ganisetti Jaswanth Sai Kumar   of   IT Department"
+  },
+  {
+    "code": "jakkojuvikranthGITP0427",
+    "holder": "Jakkoju Vikranth   of   IT Department"
+  },
+  {
+    "code": "jakkulaayushpreethamGITP0428",
+    "holder": "Jakkula Ayush Preetham   of   IT Department"
+  },
+  {
+    "code": "jatavathrajaGITP0429",
+    "holder": "Jatavath Raja   of   IT Department"
+  },
+  {
+    "code": "jinakamanojkumarGITP0430",
+    "holder": "Jinaka Manoj Kumar   of   IT Department"
+  },
+  {
+    "code": "krsreemanGITP0431",
+    "holder": "K R Sreeman   of   IT Department"
+  },
+  {
+    "code": "kvamshichandrareddyGITP0432",
+    "holder": "K Vamshi Chandra Reddy   of   IT Department"
+  },
+  {
+    "code": "karampurivishnutejaGITP0433",
+    "holder": "Karampuri Vishnu Teja   of   IT Department"
+  },
+  {
+    "code": "konnebalrajuGITP0434",
+    "holder": "Konne Balraju   of   IT Department"
+  },
+  {
+    "code": "lingalarevanthreddyGITP0435",
+    "holder": "Lingala Revanth Reddy   of   IT Department"
+  },
+  {
+    "code": "manishshawGITP0436",
+    "holder": "Manish Shaw   of   IT Department"
+  },
+  {
+    "code": "mavurusaikushalGITP0437",
+    "holder": "Mavuru Sai Kushal   of   IT Department"
+  },
+  {
+    "code": "mekalaanudeepGITP0438",
+    "holder": "Mekala Anudeep   of   IT Department"
+  },
+  {
+    "code": "mohammedabdulraqeebGITP0439",
+    "holder": "Mohammed Abdul Raqeeb   of   IT Department"
+  },
+  {
+    "code": "nagilagouthamGITP0440",
+    "holder": "Nagila Goutham   of   IT Department"
+  },
+  {
+    "code": "nallaadhityaGITP0441",
+    "holder": "Nalla Adhitya   of   IT Department"
+  },
+  {
+    "code": "nallasaikiranGITP0442",
+    "holder": "Nalla Saikiran   of   IT Department"
+  },
+  {
+    "code": "nenavathnaveenGITP0443",
+    "holder": "Nenavath Naveen   of   IT Department"
+  },
+  {
+    "code": "nirupurisrikrishnaGITP0444",
+    "holder": "Nirupuri Sri Krishna   of   IT Department"
+  },
+  {
+    "code": "padigelasrujanGITP0445",
+    "holder": "Padigela Srujan   of   IT Department"
+  },
+  {
+    "code": "pattaparlarajeshwargoudGITP0446",
+    "holder": "Pattaparla Rajeshwar Goud   of   IT Department"
+  },
+  {
+    "code": "pendyalajayanthGITP0447",
+    "holder": "Pendyala Jayanth   of   IT Department"
+  },
+  {
+    "code": "reddigarishashivardhanreddyGITP0448",
+    "holder": "Reddigari Shashivardhan Reddy   of   IT Department"
+  },
+  {
+    "code": "saarthakmanochaGITP0449",
+    "holder": "Saarthak Manocha   of   IT Department"
+  },
+  {
+    "code": "sankumadhuGITP0450",
+    "holder": "Sanku Madhu   of   IT Department"
+  },
+  {
+    "code": "surashriramGITP0451",
+    "holder": "Sura Shriram   of   IT Department"
+  },
+  {
+    "code": "thativigneshGITP0452",
+    "holder": "Thati Vignesh   of   IT Department"
+  },
+  {
+    "code": "tirumalathanvithGITP0453",
+    "holder": "Tirumala Thanvith   of   IT Department"
+  },
+  {
+    "code": "velpulaabhilashGITP0454",
+    "holder": "Velpula Abhilash   of   IT Department"
+  },
+  {
+    "code": "yeswapreetamreddyGITP0455",
+    "holder": "Yeswa Preetam Reddy   of   IT Department"
+  },
+  {
+    "code": "adapalahasiniGITP0456",
+    "holder": "Adapala Hasini   of   IT Department"
+  },
+  {
+    "code": "ailapuramsaishlokareddyGITP0457",
+    "holder": "Ailapuram Sai Shloka Reddy   of   IT Department"
+  },
+  {
+    "code": "anoushkakarraGITP0458",
+    "holder": "Anoushka Karra   of   IT Department"
+  },
+  {
+    "code": "damodaralakshmimadhulikaGITP0459",
+    "holder": "Damodara Lakshmi Madhulika   of   IT Department"
+  },
+  {
+    "code": "dokuparthishravistaGITP0460",
+    "holder": "Dokuparthi Shravista   of   IT Department"
+  },
+  {
+    "code": "donthireddysanjanaGITP0461",
+    "holder": "Donthi Reddy Sanjana   of   IT Department"
+  },
+  {
+    "code": "gubbasrividyambikaGITP0462",
+    "holder": "Gubba Sri Vidyambika   of   IT Department"
+  },
+  {
+    "code": "jpsananyaGITP0463",
+    "holder": "J P S Ananya   of   IT Department"
+  },
+  {
+    "code": "jharanapalaiGITP0464",
+    "holder": "Jharana Palai   of   IT Department"
+  },
+  {
+    "code": "ksaksahmalicayGITP0465",
+    "holder": "K S Aksah Malicay   of   IT Department"
+  },
+  {
+    "code": "katkuriharshithaGITP0466",
+    "holder": "Katkuri Harshitha   of   IT Department"
+  },
+  {
+    "code": "kondahasiniGITP0467",
+    "holder": "Konda Hasini   of   IT Department"
+  },
+  {
+    "code": "madihanaazGITP0468",
+    "holder": "Madiha Naaz   of   IT Department"
+  },
+  {
+    "code": "moinmahboobrafahkhatoonGITP0469",
+    "holder": "Moin Mahboob Rafah Khatoon   of   IT Department"
+  },
+  {
+    "code": "pasupunutisrinidhiGITP0470",
+    "holder": "Pasupunuti Srinidhi   of   IT Department"
+  },
+  {
+    "code": "patllolasrinijareddyGITP0471",
+    "holder": "Patllola Srinija Reddy   of   IT Department"
+  },
+  {
+    "code": "pranatiparandkarGITP0472",
+    "holder": "Pranati Parandkar   of   IT Department"
+  },
+  {
+    "code": "ramanialaGITP0473",
+    "holder": "Ramani Ala   of   IT Department"
+  },
+  {
+    "code": "siddhisrithashetkarGITP0474",
+    "holder": "Siddhi Sritha Shetkar   of   IT Department"
+  },
+  {
+    "code": "thovitisankeerthanaGITP0475",
+    "holder": "Thoviti Sankeerthana   of   IT Department"
+  },
+  {
+    "code": "uddandamtanviGITP0476",
+    "holder": "Uddandam Tanvi   of   IT Department"
+  },
+  {
+    "code": "ayuvaankaarthikeyaaGITP0477",
+    "holder": "A Yuvaan Kaarthikeyaa   of   IT Department"
+  },
+  {
+    "code": "aithashivasaiGITP0478",
+    "holder": "Aitha Shivasai   of   IT Department"
+  },
+  {
+    "code": "akellaharshithsaipaavanGITP0479",
+    "holder": "Akella Harshith Saipaavan   of   IT Department"
+  },
+  {
+    "code": "bagilishivaprasadGITP0480",
+    "holder": "Bagili Shiva Prasad   of   IT Department"
+  },
+  {
+    "code": "bandaduurgaaprasadreddyGITP0481",
+    "holder": "Banda Duurgaa Prasad Reddy   of   IT Department"
+  },
+  {
+    "code": "barigelapranavnarayanaGITP0482",
+    "holder": "Barigela Pranav Narayana   of   IT Department"
+  },
+  {
+    "code": "bavikadimohaseenhussainGITP0483",
+    "holder": "Bavikadi Mohaseen Hussain   of   IT Department"
+  },
+  {
+    "code": "boddupallypawankumarGITP0484",
+    "holder": "Boddupally Pawan Kumar   of   IT Department"
+  },
+  {
+    "code": "chilakamarrisrisanthGITP0485",
+    "holder": "Chilakamarri Srisanth   of   IT Department"
+  },
+  {
+    "code": "ghulammustafaGITP0486",
+    "holder": "Ghulam Mustafa   of   IT Department"
+  },
+  {
+    "code": "gundarevannathGITP0487",
+    "holder": "Gunda Revannath   of   IT Department"
+  },
+  {
+    "code": "kashokGITP0488",
+    "holder": "K Ashok   of   IT Department"
+  },
+  {
+    "code": "karlapatinanduGITP0489",
+    "holder": "Karlapati Nandu   of   IT Department"
+  },
+  {
+    "code": "karthikkalinadhabhatlaGITP0490",
+    "holder": "Karthik Kalinadhabhatla   of   IT Department"
+  },
+  {
+    "code": "kathimukeshreddyGITP0491",
+    "holder": "Kathi Mukesh Reddy   of   IT Department"
+  },
+  {
+    "code": "keshavabakthulasujalroyGITP0492",
+    "holder": "Keshavabakthula Sujal Roy   of   IT Department"
+  },
+  {
+    "code": "kolavamshigoudGITP0493",
+    "holder": "Kola Vamshi Goud   of   IT Department"
+  },
+  {
+    "code": "kommusrimanraoGITP0494",
+    "holder": "Kommu Sriman Rao   of   IT Department"
+  },
+  {
+    "code": "kondamineshsriramGITP0495",
+    "holder": "Konda Minesh Sri Ram   of   IT Department"
+  },
+  {
+    "code": "kotricavigneshGITP0496",
+    "holder": "Kotrica Vignesh   of   IT Department"
+  },
+  {
+    "code": "kottesaishivavarmaGITP0497",
+    "holder": "Kotte Sai Shiva Varma   of   IT Department"
+  },
+  {
+    "code": "mjaidevGITP0498",
+    "holder": "M Jaidev   of   IT Department"
+  },
+  {
+    "code": "mnikhilGITP0499",
+    "holder": "M Nikhil   of   IT Department"
+  },
+  {
+    "code": "mahithazariGITP0500",
+    "holder": "Mahit Hazari   of   IT Department"
+  },
+  {
+    "code": "manchukondaanilkumarGITP0501",
+    "holder": "Manchukonda Anil Kumar   of   IT Department"
+  },
+  {
+    "code": "perumandlavishnuGITP0502",
+    "holder": "Perumandla Vishnu   of   IT Department"
+  },
+  {
+    "code": "ponnamanishreddyGITP0503",
+    "holder": "Ponna Manish Reddy   of   IT Department"
+  },
+  {
+    "code": "satramdevaashishGITP0504",
+    "holder": "Satram Devaashish   of   IT Department"
+  },
+  {
+    "code": "senapatideepakkumarGITP0505",
+    "holder": "Senapati Deepak Kumar   of   IT Department"
+  },
+  {
+    "code": "shaikrazamohammadGITP0506",
+    "holder": "Shaik Raza Mohammad   of   IT Department"
+  },
+  {
+    "code": "sriramojuumeshGITP0507",
+    "holder": "Sriramoju Umesh   of   IT Department"
+  },
+  {
+    "code": "sulugantishashankGITP0508",
+    "holder": "Suluganti Shashank   of   IT Department"
+  },
+  {
+    "code": "syedshazahmedGITP0509",
+    "holder": "Syed Shaz Ahmed   of   IT Department"
+  },
+  {
+    "code": "tyashwanthGITP0510",
+    "holder": "T Yashwanth   of   IT Department"
+  },
+  {
+    "code": "thondalasharathkumarGITP0511",
+    "holder": "Thondala Sharath Kumar   of   IT Department"
+  },
+  {
+    "code": "tjugalkishorereddyGITP0512",
+    "holder": "T Jugal Kishore Reddy   of   IT Department"
+  },
+  {
+    "code": "ssGITP0513",
+    "holder": "Ss   of   IT Department"
+  },
+  {
+    "code": "vemanadeekshithGITP0514",
+    "holder": "Vemana Deekshith   of   IT Department"
+  },
+  {
+    "code": "maryadashyanthanreddyGITP0515",
+    "holder": "Maryada Shyanthan Reddy   of   IT Department"
+  },
+  {
+    "code": "balivadaharshithaGITP0516",
+    "holder": "Balivada Harshitha   of   AI&DS Department"
+  },
+  {
+    "code": "bhukyapoojaGITP0517",
+    "holder": "Bhukya Pooja   of   AI&DS Department"
+  },
+  {
+    "code": "chagilGITP0518",
+    "holder": "Ch Agil   of   AI&DS Department"
+  },
+  {
+    "code": "chidrapusaivaishnavideviGITP0519",
+    "holder": "Chidrapu Sai Vaishnavi Devi   of   AI&DS Department"
+  },
+  {
+    "code": "gaddamsreejaGITP0520",
+    "holder": "Gaddam Sreeja   of   AI&DS Department"
+  },
+  {
+    "code": "gdurgagnanadeekshitaGITP0521",
+    "holder": "G Durga Gnana Deekshita   of   AI&DS Department"
+  },
+  {
+    "code": "gudetisirichandanaGITP0522",
+    "holder": "Gudeti Siri Chandana   of   AI&DS Department"
+  },
+  {
+    "code": "gundlapallyananyaGITP0523",
+    "holder": "Gundlapally Ananya   of   AI&DS Department"
+  },
+  {
+    "code": "holkundithrishaGITP0524",
+    "holder": "Holkundi Thrisha   of   AI&DS Department"
+  },
+  {
+    "code": "mnamithaGITP0525",
+    "holder": "M Namitha   of   AI&DS Department"
+  },
+  {
+    "code": "madhuchandanasunkaraGITP0526",
+    "holder": "Madhuchandana Sunkara   of   AI&DS Department"
+  },
+  {
+    "code": "pothyreddylikhithaGITP0527",
+    "holder": "Pothyreddy Likhitha   of   AI&DS Department"
+  },
+  {
+    "code": "shaikmobeenabegumGITP0528",
+    "holder": "Shaik Mobeena Begum   of   AI&DS Department"
+  },
+  {
+    "code": "sirigirilavanyaGITP0529",
+    "holder": "Sirigiri Lavanya   of   AI&DS Department"
+  },
+  {
+    "code": "somishettyanugnyaGITP0530",
+    "holder": "Somishetty Anugnya   of   AI&DS Department"
+  },
+  {
+    "code": "tmanaswireddyGITP0531",
+    "holder": "T Manaswi Reddy   of   AI&DS Department"
+  },
+  {
+    "code": "thumumadhuriGITP0532",
+    "holder": "Thumu Madhuri   of   AI&DS Department"
+  },
+  {
+    "code": "vemulaakshayaGITP0533",
+    "holder": "Vemula Akshaya   of   AI&DS Department"
+  },
+  {
+    "code": "basireddygaripraneethreddyGITP0534",
+    "holder": "Basireddygari Praneeth Reddy   of   AI&DS Department"
+  },
+  {
+    "code": "bheeminivenkatrohithGITP0535",
+    "holder": "Bheemini Venkat Rohith   of   AI&DS Department"
+  },
+  {
+    "code": "bhumavigneshGITP0536",
+    "holder": "Bhuma Vignesh   of   AI&DS Department"
+  },
+  {
+    "code": "bollisrivardhanGITP0537",
+    "holder": "Bolli Srivardhan   of   AI&DS Department"
+  },
+  {
+    "code": "boyinaabhinavGITP0538",
+    "holder": "Boyina Abhinav   of   AI&DS Department"
+  },
+  {
+    "code": "charshithsrinivasaprasadGITP0539",
+    "holder": "C Harshith Srinivasa Prasad   of   AI&DS Department"
+  },
+  {
+    "code": "donthulaanveshGITP0540",
+    "holder": "Donthula Anvesh   of   AI&DS Department"
+  },
+  {
+    "code": "gandlasrujanGITP0541",
+    "holder": "Gandla Srujan   of   AI&DS Department"
+  },
+  {
+    "code": "gautamrajusaripalliGITP0542",
+    "holder": "Gautam Raju Saripalli   of   AI&DS Department"
+  },
+  {
+    "code": "geddammurariGITP0543",
+    "holder": "Geddam Murari   of   AI&DS Department"
+  },
+  {
+    "code": "gorigeavinashGITP0544",
+    "holder": "Gorige Avinash   of   AI&DS Department"
+  },
+  {
+    "code": "kalerusrinikethGITP0545",
+    "holder": "Kaleru Sriniketh   of   AI&DS Department"
+  },
+  {
+    "code": "kondasreeshanthGITP0546",
+    "holder": "Konda Sreeshanth   of   AI&DS Department"
+  },
+  {
+    "code": "mbharathchandraGITP0547",
+    "holder": "M Bharath Chandra   of   AI&DS Department"
+  },
+  {
+    "code": "mohammadabdulazizbaigGITP0548",
+    "holder": "Mohammad Abdul Aziz Baig   of   AI&DS Department"
+  },
+  {
+    "code": "nallamsuryasaketharamGITP0549",
+    "holder": "Nallam Surya Saketha Ram   of   AI&DS Department"
+  },
+  {
+    "code": "naradasumukundaraoGITP0550",
+    "holder": "Naradasu Mukunda Rao   of   AI&DS Department"
+  },
+  {
+    "code": "padamsrishankGITP0551",
+    "holder": "Padam Srishank   of   AI&DS Department"
+  },
+  {
+    "code": "parimalgoudmoolaGITP0552",
+    "holder": "Parimal Goud Moola   of   AI&DS Department"
+  },
+  {
+    "code": "syedafrozGITP0553",
+    "holder": "Syed Afroz   of   AI&DS Department"
+  },
+  {
+    "code": "thurangichaitanyaGITP0554",
+    "holder": "Thurangi Chaitanya   of   AI&DS Department"
+  },
+  {
+    "code": "vemulashivavamshiGITP0555",
+    "holder": "Vemula Shiva Vamshi   of   AI&DS Department"
+  },
+  {
+    "code": "vidurbandaruGITP0556",
+    "holder": "Vidur Bandaru   of   AI&DS Department"
+  },
+  {
+    "code": "yankolasameerGITP0557",
+    "holder": "Yankola Sameer   of   AI&DS Department"
+  },
+  {
+    "code": "ananthashraddhareddyGITP0558",
+    "holder": "Anantha Shraddha Reddy   of   AI&DS Department"
+  },
+  {
+    "code": "bharatulasainikhilaGITP0559",
+    "holder": "Bharatula Sai Nikhila   of   AI&DS Department"
+  },
+  {
+    "code": "deekshabachuGITP0560",
+    "holder": "Deeksha Bachu   of   AI&DS Department"
+  },
+  {
+    "code": "gdolagouriGITP0561",
+    "holder": "G Dola Gouri   of   AI&DS Department"
+  },
+  {
+    "code": "gadipudivenkataasrithaGITP0562",
+    "holder": "Gadipudi Venkata Asritha   of   AI&DS Department"
+  },
+  {
+    "code": "glakshmisrisahasraraoGITP0563",
+    "holder": "G Lakshmi Sri Sahasra Rao   of   AI&DS Department"
+  },
+  {
+    "code": "kamerabhavaniGITP0564",
+    "holder": "Kamera Bhavani   of   AI&DS Department"
+  },
+  {
+    "code": "kanakamedalaveekshaGITP0565",
+    "holder": "Kanakamedala Veeksha   of   AI&DS Department"
+  },
+  {
+    "code": "lakkepuramlaasyasriGITP0566",
+    "holder": "Lakkepuram Laasyasri   of   AI&DS Department"
+  },
+  {
+    "code": "madeshinandiniGITP0567",
+    "holder": "Madeshi Nandini   of   AI&DS Department"
+  },
+  {
+    "code": "masettysrithariniGITP0568",
+    "holder": "Masetty Sri Tharini   of   AI&DS Department"
+  },
+  {
+    "code": "nayudulikithaGITP0569",
+    "holder": "Nayudu Likitha   of   AI&DS Department"
+  },
+  {
+    "code": "pachimatlahasiniGITP0570",
+    "holder": "Pachimatla Hasini   of   AI&DS Department"
+  },
+  {
+    "code": "parshettyharshithaGITP0571",
+    "holder": "Parshetty Harshitha   of   AI&DS Department"
+  },
+  {
+    "code": "rayapanenivyshnaviGITP0572",
+    "holder": "Rayapaneni Vyshnavi   of   AI&DS Department"
+  },
+  {
+    "code": "rhuthvijaallavalaGITP0573",
+    "holder": "Rhuthvija Allavala   of   AI&DS Department"
+  },
+  {
+    "code": "samaashwithareddyGITP0574",
+    "holder": "Sama Ashwitha Reddy   of   AI&DS Department"
+  },
+  {
+    "code": "sangishettybramarambikaGITP0575",
+    "holder": "Sangishetty Bramarambika   of   AI&DS Department"
+  },
+  {
+    "code": "vaddeboinamahathiGITP0576",
+    "holder": "Vaddeboina Mahathi   of   AI&DS Department"
+  },
+  {
+    "code": "vallabhdasvaishnaviGITP0577",
+    "holder": "Vallabhdas Vaishnavi   of   AI&DS Department"
+  },
+  {
+    "code": "vennelaindukuriGITP0578",
+    "holder": "Vennela Indukuri   of   AI&DS Department"
+  },
+  {
+    "code": "attipallihothrishreddyGITP0579",
+    "holder": "Attipalli Hothrish Reddy   of   AI&DS Department"
+  },
+  {
+    "code": "banothurakeshGITP0580",
+    "holder": "Banothu Rakesh   of   AI&DS Department"
+  },
+  {
+    "code": "bhattatejapraharshaGITP0581",
+    "holder": "Bhatta Teja Praharsha   of   AI&DS Department"
+  },
+  {
+    "code": "bodaarunGITP0582",
+    "holder": "Boda Arun   of   AI&DS Department"
+  },
+  {
+    "code": "cherukuthotavaruntejaGITP0583",
+    "holder": "Cherukuthota Varun Teja   of   AI&DS Department"
+  },
+  {
+    "code": "drishwanthreddyGITP0584",
+    "holder": "D Rishwanth Reddy   of   AI&DS Department"
+  },
+  {
+    "code": "dasarihitharthGITP0585",
+    "holder": "Dasari Hitharth   of   AI&DS Department"
+  },
+  {
+    "code": "eedebillisaimohanGITP0586",
+    "holder": "Eedebilli Saimohan   of   AI&DS Department"
+  },
+  {
+    "code": "gadevishalGITP0587",
+    "holder": "Gade Vishal   of   AI&DS Department"
+  },
+  {
+    "code": "gadielakarthikreddyGITP0588",
+    "holder": "Gadiela Karthik Reddy   of   AI&DS Department"
+  },
+  {
+    "code": "guttyyuvaakhileshreddyGITP0589",
+    "holder": "Gutty Yuva Akhilesh Reddy   of   AI&DS Department"
+  },
+  {
+    "code": "kalyanamsrisaiakarshGITP0590",
+    "holder": "Kalyanam Sri Sai Akarsh   of   AI&DS Department"
+  },
+  {
+    "code": "mallepallypraveenGITP0591",
+    "holder": "Mallepally Praveen   of   AI&DS Department"
+  },
+  {
+    "code": "mandalaviswatejaGITP0592",
+    "holder": "Mandala Viswa Teja   of   AI&DS Department"
+  },
+  {
+    "code": "mogusalakoushikramreddyGITP0593",
+    "holder": "Mogusala Koushik Ram Reddy   of   AI&DS Department"
+  },
+  {
+    "code": "momulagouthamGITP0594",
+    "holder": "Momula Goutham   of   AI&DS Department"
+  },
+  {
+    "code": "nannaaadarshGITP0595",
+    "holder": "Nanna Aadarsh   of   AI&DS Department"
+  },
+  {
+    "code": "nayunipatrunimohithGITP0596",
+    "holder": "Nayunipatruni Mohith   of   AI&DS Department"
+  },
+  {
+    "code": "panjalayeshwanthgoudGITP0597",
+    "holder": "Panjala Yeshwanth Goud   of   AI&DS Department"
+  },
+  {
+    "code": "raghavapuramsaiharshithGITP0598",
+    "holder": "Raghavapuram Sai Harshith   of   AI&DS Department"
+  },
+  {
+    "code": "shaikirfanGITP0599",
+    "holder": "Shaik Irfan   of   AI&DS Department"
+  },
+  {
+    "code": "tramakrishnasreeshanmukhGITP0600",
+    "holder": "T Ramakrishna Sree Shanmukh   of   AI&DS Department"
+  },
+  {
+    "code": "yerrababbluGITP0601",
+    "holder": "Yerra Babblu   of   AI&DS Department"
+  }
+]

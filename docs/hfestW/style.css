@@ -10,12 +10,6 @@ body {
     src: url("/verify24/assests/fonts/BASKVILL.ttf") format("truetype");
 }
 
-#name-element {
-    font-size: 62.0px;
-    font-family: 'Atkinson Hyperlegible', sans-serif;
-    font-weight: 700;
-}
-
 .baskvile {
     font-family: "Baskerville-old-face", sans-serif;
 }
@@ -65,10 +59,12 @@ canvas {
     display: block;
 }
 
-/* Limit certificate SVG height to viewport to avoid scrolling */
+/* Keep certificate SVG within the viewport to avoid scrolling */
 svg#certificate {
-    max-height: 80vh;
+    max-height: 70vh; /* reduce from previous to fit better */
+    max-width: 95vw;
     width: auto;
+    height: auto;
     display: block;
     margin: 0 auto;
 }

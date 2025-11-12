@@ -28,7 +28,7 @@ fetch("data.json")
             const qrContainer = document.getElementById("qr-container");
 
             const qr = new QRCode(qrContainer, {
-                text: "https://cbitosc.github.io/verify25/hfestW/?id=" + matchingEntry.code,
+                text: "https://cbitosc.github.io/verify25/hfestW3/?id=" + matchingEntry.code,
                 width: 384,
                 height: 384,
                 typeNumber: 8,
